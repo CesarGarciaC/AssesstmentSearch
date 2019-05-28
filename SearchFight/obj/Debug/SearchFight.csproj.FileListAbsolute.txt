@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\obj\Debug\SearchFight.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\obj\Debug\SearchFight.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\obj\Debug\SearchFight.exe
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\obj\Debug\SearchFight.pdb
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.exe.config
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.exe
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.pdb
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Common.dll
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Infrastructure.dll
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Logic.dll
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Services.dll
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Common.pdb
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Infrastructure.pdb
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Logic.pdb
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\bin\Debug\SearchFight.Services.pdb
+C:\Users\HP\Desktop\SearchFight-master\SearchFight\obj\Debug\SearchFight.csproj.CopyComplete
